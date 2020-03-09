@@ -159,3 +159,4 @@ Issues that I have notices so far:
 - https://www.macworld.co.uk/how-to/mac-software/mac-recovery-mode-3674052/
 - https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/page-27?post=28226897&fbclid=IwAR35B8htzngqkwVeMRcYC8FnC4dgu5NaaV777pmAdlQY-vxw-OQWLcUXydU#post-28226897
 - https://forums.macrumors.com/threads/opencore-on-the-mac-pro.2207814/
+- https://ss64.com/osx/bless.html
