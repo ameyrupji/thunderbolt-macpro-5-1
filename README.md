@@ -2,7 +2,7 @@
 
 This is my story to add Thunderbolt support to my Mac Pro Early 2009 (5,1). Before we begin a quick disclaimer below.
 
-**Disclaimer:** Try this at your own risk. I do not guaranty that this will work for you but i hope it does. i also do not recommend anyone trying this. This is purely for educational purposes and may void your existing warranty for which I am not responsible.
+**Disclaimer:** Try this at your own risk. I do not guaranty that this will work for you but I hope it does. This is purely for educational purposes and I am not responsible for any void in warranty.
 
 ## About my Mac Pro 5,1
 
