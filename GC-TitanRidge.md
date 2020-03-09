@@ -96,8 +96,6 @@ Alternate verify - Check against original blue chip firmware should fail:
 flashrom -p ch341a_spi -v OriginalFirmware-BlueChip.bin
 ```
 
-![terminal-verify-flash-alternate](./images/terminal-verify-flash-alternate.png)
-
 
 ### Connect the card into the system
 
