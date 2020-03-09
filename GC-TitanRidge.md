@@ -125,7 +125,7 @@ sudo mount -t msdos /dev/disk0s1 /Volumes/efi
 
 I already had a EFI folder within the drive. I got an alert asking to  merge or update the contents. I chose Merge. The Final folder looked like this:
 
-![finder-copy-to-efi](./images/images/finder-copy-to-efi.png) 
+![finder-copy-to-efi](./images/finder-copy-to-efi.png) 
 
 
 ### Reboot one or twice into Recovery Mode
