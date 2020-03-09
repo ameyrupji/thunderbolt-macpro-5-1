@@ -147,7 +147,7 @@ I have tested this is working on the following macOS:
 
 Issues that I have notices so far:
 - Hot swapping devices works till at-least one device is connected to the GC-TITAN RIDGE card. 
-- I am using a Thunderboalt Display and have notices that the brightness functionality on the thunderbolt display does not work also the USB ports behind the Thunderbolt display do not work.
+- I am using A pair of Apple Thunderboalt Display and have notices that the brightness functionality and USB ports behind the Thunderbolt display do not work.
 
 ## Useful Links
 
