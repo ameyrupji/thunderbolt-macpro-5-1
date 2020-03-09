@@ -103,7 +103,9 @@ flashrom -p ch341a_spi -v OriginalFirmware-BlueChip.bin
 
 ### Connect the card into the system
 
-I connected this card in Slot 4 of my PCIE on Mac Pro. Also connected the display port outputs on my RX580 to the Mini Display input on the card.
+I connected this card in Slot 4 of my PCIE on Mac Pro. 
+
+Also connected the display port outputs on my RX580 to the Mini Display input on the card (I did this as I want to use GC-Titan Rige card to power my Thunderbolt Displays).
 
 ![image-gc-titanridge-macpro-slot4](./images/image-gc-titanridge-macpro-slot4.png)
 
