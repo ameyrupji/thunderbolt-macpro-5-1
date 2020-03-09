@@ -75,7 +75,11 @@ flashrom -p ch341a_spi -r OriginalFirmware-GreenChip.bin
 ```
 ![terminal-backup-greenchip-firmware](./images/terminal-backup-greenchip-firmware.png)
 
-### Flashing TitanRidgeMacOSFirmware.bin custom firmware
+### Connect to the blue chip and flashing TitanRidgeMacOSFirmware.bin custom firmware
+
+Connect to blue chip again to be able to flash the firmware.
+
+![image-connected-blue-chip](./images/image-connected-blue-chip.png)
 
 ```
 flashrom -p ch341a_spi -w TitanRidgeMacOSFirmware.bin
@@ -143,8 +147,7 @@ I have tested this is working on the following macOS:
 
 Issues that I have notices so far:
 - Hot swapping devices works till at-least one device is connected to the GC-TITAN RIDGE card. 
-- Brightness functionality on the thunderbolt display does not work.
-- Data (USB) ports behind the Thunderbolt display do not work.
+- I am using a Thunderboalt Display and have notices that the brightness functionality on the thunderbolt display does not work also the USB ports behind the Thunderbolt display do not work.
 
 ## Useful Links
 
