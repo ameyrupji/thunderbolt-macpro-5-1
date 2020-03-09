@@ -117,7 +117,7 @@ sudo mount -t msdos /dev/disk0s1 /Volumes/efi
 
 ### Copy Contents of MacPro5.1 OpenCore.zip file into the mounted EFI drive
 
-I already had a EFI folder within the drive. Ut alerted me to merge or update the contents. I chose merge. The Final folder looked like this
+I already had a EFI folder within the drive. I got an alert asking to  merge or update the contents. I chose Merge. The Final folder looked like this:
 
 ![finder-copy-to-efi](./images/finder-copy-to-efi.png) 
 
