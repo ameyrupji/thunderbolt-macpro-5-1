@@ -4,7 +4,7 @@ This is my story to add Thunderbolt support to my Mac Pro Early 2009 (5,1). Befo
 
 **Disclaimer:** Try this at your own risk. I do not guaranty that this will work for you but i hope it does. i also do not recommend anyone trying this. This is purely for educational purposes and may void your existing warranty for which I am not responsible.
 
-## About my Mac Pro 
+## About my Mac Pro 5,1
 
 My mac pro has the following configurations:
 
@@ -16,13 +16,13 @@ My mac pro has the following configurations:
 
 I was in the market looking around for a PCIE based solution for running my Apple Thunderbolt Displays off of. I found the following options which look compelling looking at the reviews:
 
-- ASUS Expansion Card for Z170 & X99 Motherboards ThunderboltEX 3
-- Gigabyte GC-Titan Ridge (Titan Ridge Thunderbolt 3 PCIe Card Component)
+- ASUS Expansion Card for Z170 & X99 Motherboards ThunderboltEX 3 [Amazon](https://www.amazon.com/gp/product/B01HDUVJ54/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) ~$60.
+- Gigabyte GC-Titan Ridge (Titan Ridge Thunderbolt 3 PCIe Card Component) [Amazon](https://www.amazon.com/gp/product/B07GBZL93X/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) ~$100.
 
 Tried both these cards on my system and this are my thoughts:
 
-- ASUS ThunderboltEX 3: click [here](GC-TitanRidge.md) for my findings.
-- Gigabyte GC-Titan Ridge click [here](ThunderboltEX3.md) for my findings.
+- ASUS ThunderboltEX 3: Click [here](GC-TitanRidge.md) [Work In Progress] for my findings.
+- Gigabyte GC-Titan Ridge: Click [here](ThunderboltEX3.md) for my findings.
 
 
 
