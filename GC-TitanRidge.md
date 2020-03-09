@@ -140,7 +140,7 @@ To boot into recovery mode hold down the command + R key after turning on the Ma
 
 I have tested this is working on the following macOS:
 
-- Mojave 10.14.6 
+- Mojave 10.14.6 (Officially supported with Metal suported cards)
 - Catalina 10.15.3 
 
 **Note:** I do not recommend or support installing unsupported macOS on your Mac Pro.
