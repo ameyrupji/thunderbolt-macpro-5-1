@@ -122,7 +122,10 @@ sudo mount -t msdos /dev/disk0s1 /Volumes/efi
 
 ### Delete all contents of the EFI drive
 
-I Deleted the existing EFI folder (It has `EFI\APPLE\EXTENSION\Firmware.scap` file) as this will be recreated on the next boot.
+I Deleted the existing EFI folder (It has `EFI\APPLE\EXTENSION\Firmware.scap` file) as this will be recreated on the next boot. Also at this point add the contents (`EFI` folder) of MacPro5.1 OpenCore.zip to this drive.
+
+![finder-copy-to-efi](./images/finder-copy-to-efi.png) 
+
 
 # Restart system in Recovery mode
 
@@ -132,20 +135,33 @@ Use the following command on terminal to restart the system in `Recovery Mode`
 sudo nvram "recovery-boot-mode=unused" && sudo reboot recovery
 ```
 
-### Copy Contents of MacPro5.1 OpenCore.zip file into the mounted EFI drive
+After the Mac Pro reboots in recovery mode open termianl and run the following command to mount the drive
 
-I already had a EFI folder within the drive. I got an alert asking to  merge or update the contents. I chose Merge. The Final folder looked like this:
+```
+diskutil list
+sudo mkdir /Volumes/efi
+sudo mount -t msdos /dev/disk0s1 /Volumes/efi
+```
 
-![finder-copy-to-efi](./images/finder-copy-to-efi.png) 
+Bless the volume using command:
 
+```
+bless --mount /Volumes/EFI --setBoot
+```
 
-### Reboot one or twice into Recovery Mode
+### Shotdown and start system
 
-To boot into recovery mode hold down the command + R key after turning on the Mac Pro. Thunderbolt should be working after a normal boot now!!!
+Shut down your computer, unplug it for 15 seconds, then start it. I was able to see the "OpenCore"  boot loader for a few seconds, then the default boot drive will be started automatically.
+
+Thunderbolt should be working after a normal boot now!!!
 
 ![system-report-thunderbolt-working](./images/system-report-thunderbolt-working.png)
 
-**Note:** I have not OpenCored my MacPro
+
+### Native boot without OpenCore
+
+To run the native boot from macOS keep the `option` pressed until the bootable drives are displayed on the screen (standard function of a Mac) and then select another boot drive instead of `EFI:Boot`.
+
 
 ### OS tested 
 
