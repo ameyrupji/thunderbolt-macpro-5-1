@@ -114,7 +114,7 @@ Also connected the display port outputs on my RX580 to the Mini Display input on
 
 ```
 diskutil list
-mkdir /Volumes/efi
+sudo mkdir /Volumes/efi
 sudo mount -t msdos /dev/disk0s1 /Volumes/efi
 ```
 
