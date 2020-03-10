@@ -120,6 +120,17 @@ sudo mount -t msdos /dev/disk0s1 /Volumes/efi
 
 ![terminal-mount-efi](./images/terminal-mount-efi.png)
 
+### Delete all contents of the EFI drive
+
+I Deleted the existing EFI folder (It has `EFI\APPLE\EXTENSION\Firmware.scap` file) as this will be recreated on the next boot.
+
+# Restart system in Recovery mode
+
+Use the following command on terminal to restart the system in `Recovery Mode`
+
+```
+sudo nvram "recovery-boot-mode=unused" && sudo reboot recovery
+```
 
 ### Copy Contents of MacPro5.1 OpenCore.zip file into the mounted EFI drive
 
