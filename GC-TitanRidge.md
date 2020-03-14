@@ -127,7 +127,9 @@ Also connected the display port outputs on my RX580 to the Mini Display input on
 ![image-gc-titanridge-macpro-slot4](./images/image-gc-titanridge-macpro-slot4.png)
 
 
-### Find and mount EFI disk
+### Find and mount EFI disk 
+
+**Note:** Do this step below if you want to OpenCore your Mac. Again _I have not OpenCored my MacPro_.
 
 ```
 diskutil list
@@ -138,7 +140,10 @@ sudo mount -t msdos /dev/disk0s1 /Volumes/efi
 ![terminal-mount-efi](./images/terminal-mount-efi.png)
 
 
-### Copy Contents of MacPro5.1 OpenCore.zip file into the mounted EFI drive
+### Copy Contents of MacPro5.1 OpenCore.zip file into the mounted EFI drive 
+
+**Note:** Do this step below if you want to OpenCore your Mac. Again _I have not OpenCored my MacPro_.
+
 
 I already had a EFI folder within the drive. I got an alert asking to  merge or update the contents. I chose Merge. The Final folder looked like this:
 
@@ -151,7 +156,14 @@ To boot into recovery mode hold down the command + R key after turning on the Ma
 
 ![system-report-thunderbolt-working](./images/system-report-thunderbolt-working.png)
 
-**Note:** I have not OpenCored my MacPro
+
+### TODOs:
+
+I will try the following things in the future:
+
+- OpenCore my system - [Link](https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28261032)
+- Connect pin 3 and pin 5 of jumper - Some folks have reported that without this their Mac freezes on boot. Have not noticed this issue on my end - [Link](https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28261162).
+- 
 
 ### OS tested 
 
@@ -178,4 +190,5 @@ Issues that I have notices so far:
 - https://forums.macrumors.com/threads/opencore-on-the-mac-pro.2207814/
 - https://ss64.com/osx/bless.html
 - https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28261032
+- https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28261162
 
