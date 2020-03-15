@@ -27,5 +27,5 @@ Tried both these cards on my system and this are my thoughts:
 
 ## Support this work
 
-- Amey Rupji [PayPal] (https://paypal.me/AmeyRupji?locale.x=en_US)
-- Amey Rupji [DSM2] (https://paypal.me/DSM2Hackintosh?locale.x=de_DE)
+- Amey Rupji [PayPal](https://paypal.me/AmeyRupji?locale.x=en_US)
+- Amey Rupji [DSM2](https://paypal.me/DSM2Hackintosh?locale.x=de_DE)
