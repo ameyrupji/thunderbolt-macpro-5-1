@@ -28,6 +28,13 @@ My mac pro has the following configurations:
 
 ## My Upgrade Journey
 
+### Gigabyte GC-Titan Ridge Card package contents
+
+Here is a information about the package contents of Gigabyte GC-Titan Ridge Card [Link](https://www.gigabyte.com/us/Motherboard/GC-TITAN-RIDGE-rev-10#kf).
+
+![image-gc-titan-ridge](./images/image-gc-titan-ridge.jpg)
+**Source:** Gigabyte Website [Link](https://www.gigabyte.com/us/Motherboard/GC-TITAN-RIDGE-rev-10#kf)
+
 ### Disassemble GC-Titan Ridge
 
 Once you unbox your titan ridge card it should look like this:
