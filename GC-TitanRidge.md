@@ -117,6 +117,19 @@ Alternate verify - Check against original blue chip firmware should fail:
 flashrom -p ch341a_spi -v OriginalFirmware-BlueChip.bin
 ```
 
+### Connect pin 3 and pin 5 of jumper for Hot Swap capability
+
+**Update:** March 14th, 2020
+
+Lets now try connecting pin 3 and pin 5 of the THB_C Header Cable provided. Some folks have reported that without this their Mac freezes on boot. Have not noticed this issue on my end. [Reference Link](https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28261162).
+
+![image-jumper-wire](./images/image-jumper-wire.png)
+
+When connected the jumper from pin 3 to pin 5 should look like this.
+
+![image-jumper-pin3-pin5](./images/image-jumper-pin3-pin5.png)
+
+Connect this other end of the THB_C Header to the card into the J1 Header port of the card.
 
 ### Connect the card into the system
 
@@ -126,6 +139,9 @@ Also connected the display port outputs on my RX580 to the Mini Display input on
 
 ![image-gc-titanridge-macpro-slot4](./images/image-gc-titanridge-macpro-slot4.png)
 
+Inner view:
+
+![image-gc-titanridge-macpro-slot4-inside](./images/image-gc-titanridge-macpro-slot4-inside.png)
 
 ### Find and mount EFI disk 
 
@@ -154,16 +170,17 @@ I already had a EFI folder within the drive. I got an alert asking to  merge or 
 
 To boot into recovery mode hold down the command + R key after turning on the Mac Pro. Thunderbolt should be working after a normal boot now!!!
 
+![system-report-thunderbolt](./images/system-report-thunderbolt.png)
+
+After the Apple Thunderbolt Displays are connected to the system they work in Daisy Chaining and the following is shown in the System report. I have also tried to Hot Swap the displays successfully.
+
 ![system-report-thunderbolt-working](./images/system-report-thunderbolt-working.png)
 
 
 ### TODOs:
 
 I will try the following things in the future:
-
-- OpenCore my system - [Link](https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28261032)
-- Connect pin 3 and pin 5 of jumper - Some folks have reported that without this their Mac freezes on boot. Have not noticed this issue on my end - [Link](https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28261162).
-- 
+- Get OpenCore to work on my system - [Link](https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28261032)
 
 ### OS tested 
 
@@ -177,7 +194,8 @@ I have tested this is working on the following macOS:
 ### Known Issues
 
 Issues that I have notices so far:
-- Hot swap devices works till at-least one device is connected to the GC-TITAN RIDGE card. I have only tried this with my thunderbolt displays if I connect one display to the card and leave it connected to the the card I can disconnect the second from the card or daisy chain and works after reconnecting. But if I remove both and try to reconnect then none of them work.
+
+- ~~Hot swap devices works till at-least one device is connected to the GC-TITAN RIDGE card. I have only tried this with my thunderbolt displays if I connect one display to the card and leave it connected to the the card I can disconnect the second from the card or daisy chain and works after reconnecting. But if I remove both and try to reconnect then none of them work.~~ Solved by Connect pin 3 and pin 5 of jumper refer this section above.
 - I am using A pair of Apple Thunderbolt Display and have notices that the brightness functionality and USB ports behind the Thunderbolt display do not work.
 
 ## Useful Links
@@ -190,5 +208,4 @@ Issues that I have notices so far:
 - https://forums.macrumors.com/threads/opencore-on-the-mac-pro.2207814/
 - https://ss64.com/osx/bless.html
 - https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28261032
-- https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28261162
 
