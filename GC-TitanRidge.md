@@ -189,6 +189,10 @@ After the Apple Thunderbolt Displays are connected to the system they work in Da
 I will try the following things in the future:
 - Get OpenCore to work on my system - [Link](https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28261032)
 
+### Thunderbolt device tested
+
+- Apple Thunderbolt Display [link](../GC-TitanRidge-AppleThunderboldDisplay.md)
+
 ### OS tested 
 
 I have tested this is working on the following macOS:
