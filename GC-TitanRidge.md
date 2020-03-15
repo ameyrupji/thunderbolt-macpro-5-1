@@ -191,7 +191,7 @@ I will try the following things in the future:
 
 ### Thunderbolt device tested
 
-- Apple Thunderbolt Display [link](../GC-TitanRidge-AppleThunderboldDisplay.md)
+- Apple Thunderbolt Display [link](./GC-TitanRidge-AppleThunderboldDisplay.md)
 
 ### OS tested 
 

@@ -1,4 +1,4 @@
-| [Home](../README.md) ▸ [Thunderbolt Mac Pro Early 2009 with Gigabyte GC-Titan Ridge Card](../GC-TitanRidge.md) ▸ Mac Pro Early 2009 + Apple Thunderbolt Display |
+| [Home](./README.md) ▸ [Thunderbolt Mac Pro Early 2009 with Gigabyte GC-Titan Ridge Card](./GC-TitanRidge.md) ▸ Mac Pro Early 2009 + Apple Thunderbolt Display |
 |-----|
 
 
