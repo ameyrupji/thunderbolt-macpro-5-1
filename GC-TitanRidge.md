@@ -17,7 +17,7 @@ My mac pro has the following configurations:
 
 - Processor:        2 x 3.33 Ghz 6-Core Intel Xeon (X5680)
 - Memory:           96 GB 1066 Mhz DDR3 ECC
-- Graphics          Radeon RX 580 8 GB
+- Graphics          AMD Radeon RX 580 8 GB
 
 ## Prerequisites
 
@@ -135,7 +135,7 @@ Connect this other end of the THB_C Header to the card into the J1 Header port o
 
 I connected this card in Slot 4 of my PCIE on Mac Pro. 
 
-Also connected the display port outputs on my RX580 to the Mini Display input on the card (I did this as I want to use GC-Titan Rige card to power my Thunderbolt Displays).
+I also connected the display port outputs on my RX580 to the Mini Display input on the card (I did this as I want to use GC-Titan Rige card to power my Thunderbolt Displays).
 
 ![image-gc-titanridge-macpro-slot4](./images/image-gc-titanridge-macpro-slot4.png)
 
@@ -186,7 +186,7 @@ I will try the following things in the future:
 
 I have tested this is working on the following macOS:
 
-- Mojave 10.14.6 (Officially supported with Metal suported cards)
+- Mojave 10.14.6 (Officially supported with Metal supported cards)
 - Catalina 10.15.3 
 
 **Note:** I do not recommend or support installing unsupported macOS on your Mac Pro.

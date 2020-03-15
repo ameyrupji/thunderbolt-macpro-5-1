@@ -10,7 +10,7 @@ My mac pro has the following configurations:
 
 - Processor:        2 x 3.33 Ghz 6-Core Intel Xeon (X5680)
 - Memory:           96 GB 1066 Mhz DDR3 ECC
-- Graphics          Radeon RX 580 8 GB
+- Graphics          AMD Radeon RX 580 8 GB
 
 ## My Thunderbolting Story 
 
