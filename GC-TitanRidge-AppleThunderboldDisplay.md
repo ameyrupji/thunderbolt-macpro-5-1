@@ -29,7 +29,11 @@ My mac pro has the following configurations:
 
 ## My Upgrade Journey
 
-### Connect the card into the system
+### Setup
+
+High level setup diagram is as follows:
+
+![image-thunderbolt-display-setup-diagram](./images/image-thunderbolt-display-setup-diagram.png)
 
 Connected the display port outputs on my RX580 to the Mini Display input on the card.
 
