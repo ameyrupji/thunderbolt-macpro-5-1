@@ -2,8 +2,7 @@
 
 This is my story to add Thunderbolt support to my Mac Pro Early 2009 (5,1). Before we begin a quick disclaimer below.
 
-**Disclaimer:** Try this at your own risk. I do not guaranty that this will work for you but I hope it does. This is purely for educational purposes and I am not responsible for any void in warranty.
-
+> **Disclaimer:** Try this at your own risk. I do not guaranty that this will work for you but I hope it does. This is purely for educational purposes and I am not responsible for any void in warranty. This is not a end all be all guide for getting the GC-Titan Ridge thunderbolt card working for every use case. These steps have worked for me but there might be additional steps that might be required for getting other thunderbolt devices to work. Please follow the links mentioned in the the `Useful Links` section below for more update to date information about the community postings on this topic.
 ## About my Mac Pro 5,1
 
 My mac pro has the following configurations:
