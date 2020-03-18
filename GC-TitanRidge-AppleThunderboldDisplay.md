@@ -33,7 +33,7 @@ My mac pro has the following configurations:
 
 High level setup diagram is as follows:
 
-![image-thunderbolt-display-setup](./images/image-thunderbolt-display-setup.png)
+![image-thunderbolt-display-setup](./images/image-gc-titanridge-thunderbolt-display-setup.png)
 
 Connected the display port outputs on my RX580 to the Mini Display input on the card.
 
