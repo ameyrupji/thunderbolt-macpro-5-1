@@ -29,9 +29,11 @@ High level setup diagram is as follows:
 ![image-gc-titanridge-motu-828mk2-setup](./images/image-gc-titanridge-motu-828mk2-setup.png)
 
 
-### Boot Process 
+### MOTU 828mk2 Hybrid Audio Interface and then Bootup Mac Pro
 
 **Important**
+
+Before you start your Mac Pro power on the MOTU 828mk2 Hybrid Audio Interface.
 
 Cold boot into Mojave followed by an immediate restart. The Thunderbolt card is always recognized on the cold boot, as is the Thunderbolt to Firewire adapter, but, it requires the restart in order to recognize the MOTU interface.
 
@@ -53,7 +55,9 @@ System Report Audio section will show MOTU 828mk2 as a valid audio source.
 
 ### OS tested 
 
-I have tested this is working on the following macOS:
+This is working on the following macOS versions:
+
+- High Sierra 10.13.x
 - Mojave 10.14.6
 
 **Note:** I do not recommend or support installing unsupported macOS on your Mac Pro.
