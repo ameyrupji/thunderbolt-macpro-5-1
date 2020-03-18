@@ -39,6 +39,7 @@ Cold boot into Mojave followed by an immediate restart. The Thunderbolt card is 
 ### Working MOTU 828mk2 Hybrid Audio Interface
 
 Firewire Adapter is recognized.
+
 ![system-report-thunderbolt-working-with-firewire-adapter](./images/system-report-thunderbolt-working-with-firewire-adapter.jpg)
 
 System Report Audio section will show MOTU 828mk2 as a valid audio source.
@@ -46,6 +47,7 @@ System Report Audio section will show MOTU 828mk2 as a valid audio source.
 ![system-report-audio-motu-828mk2](./images/system-report-audio-motu-828mk2.jpg)
 
 828mk2 should be detected in the Motu Audio Setup App.
+
 ![motu-audio-setup-app](./images/motu-audio-setup-app.jpg)
 
 
