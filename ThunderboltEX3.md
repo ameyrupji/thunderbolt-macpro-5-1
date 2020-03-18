@@ -32,6 +32,7 @@ My mac pro has the following configurations:
 Here is a information about the package contents of Gigabyte GC-Titan Ridge Card [Link](https://www.gigabyte.com/us/Motherboard/GC-TITAN-RIDGE-rev-10#kf).
 
 ![image-gc-titan-ridge](./images/image-thunderbolt-ex3.jpg)
+
 **Source:** B&H Photo Video Website [Link](https://www.bhphotovideo.com/c/product/1267068-REG/asus_thunderboltex_3_expansion_card.html)
 
 
