@@ -192,6 +192,7 @@ I will try the following things in the future:
 ### Thunderbolt device tested
 
 - Apple Thunderbolt Display [link](./GC-TitanRidge-AppleThunderboldDisplay.md)
+- MOTU 828mk2 Hybrid Audio Interface [link](./GC-TitanRidge-MOTU828mk2HybridAudioInterface.md)
 
 ### OS tested 
 
