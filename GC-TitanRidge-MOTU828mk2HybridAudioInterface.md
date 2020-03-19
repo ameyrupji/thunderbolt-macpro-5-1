@@ -22,6 +22,10 @@ This is the story to get MOTU 828mk2 Hybrid Audio Interface working with Mac Pro
 
 ## My Upgrade Journey
 
+### Install MOTU Audio Installer 
+
+Install the MOTU Audio Installer which contains all the required drivers before installing the flashed card in the Mac Pro. The installer can be downloaded at [Motu Website](https://motu.com/download/)
+
 ### Setup
 
 High level setup diagram is as follows:
@@ -29,7 +33,7 @@ High level setup diagram is as follows:
 ![image-gc-titanridge-motu-828mk2-setup](./images/image-gc-titanridge-motu-828mk2-setup.png)
 
 
-### MOTU 828mk2 Hybrid Audio Interface and then Bootup Mac Pro
+### Power on MOTU 828mk2 Hybrid Audio Interface and then Bootup Mac Pro
 
 **Important**
 
