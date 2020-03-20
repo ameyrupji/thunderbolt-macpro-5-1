@@ -221,4 +221,4 @@ Issues that I have notices so far:
 - https://forums.macrumors.com/threads/opencore-on-the-mac-pro.2207814/
 - https://ss64.com/osx/bless.html
 - https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28261032
-
+- https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28293660 [My documentation link shared on forums.macrumors.com]
