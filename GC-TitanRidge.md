@@ -189,6 +189,7 @@ After the Apple Thunderbolt Displays are connected to the system they work in Da
 
 I will try the following things in the future:
 - Get OpenCore to work on my system - [Link](https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28261032)
+- USB 2.0 Support - [Link](https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28294229)
 
 ### Thunderbolt device tested
 
