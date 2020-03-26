@@ -57,7 +57,7 @@ I have tested this is working on the following macOS:
 
 Issues that I have notices so far:
 
-- I am using A pair of Apple Thunderbolt Display and have notices that the brightness functionality and USB ports behind the Thunderbolt display do not work.
+- ~~I am using A pair of Apple Thunderbolt Display and have notices that the brightness functionality and USB ports behind the Thunderbolt display do not work.~~ Restart your system after a cold boot to enable USB and FaceTime HD Cameras on the Apple Thunderbold displays. 
 
 ## Useful Links
 
