@@ -2,9 +2,9 @@
 |-----|
 
 
-# [WIP] Thunderbolt Mac Pro Early 2009 with Asus Thunderbolt EX3
+# Thunderbolt Mac Pro Early 2009 with Asus Thunderbolt EX3
 
-This is my story to add Thunderbolt support to my Mac Pro Early 2009 (5,1) with a Gigabyte GC-Titan Ridge Card. Before we begin a quick disclaimer below.
+This is my story to add Thunderbolt support (only Apple Thunderbold Display tested) to my Mac Pro Early 2009 (5,1) with a Gigabyte GC-Titan Ridge Card. Before we begin a quick disclaimer below.
 
 **Difficulty Level:** Easy
 
@@ -18,8 +18,6 @@ My mac pro has the following configurations:
 - Processor:        2 x 3.33 Ghz 6-Core Intel Xeon (X5680)
 - Memory:           96 GB 1066 Mhz DDR3 ECC
 - Graphics          AMD Radeon RX 580 8 GB
-
-
 
 ## Prerequisites
 
@@ -47,3 +45,29 @@ I also connected the display port outputs on my RX580 to the Mini Display input 
 Inner view:
 
 ![image-thunderbolt-ex3-slot4-inside](./images/image-thunderbolt-ex3-slot3-inside.png)
+
+### Thunderbolt device tested
+
+- Apple Thunderbolt Display 
+
+### OS tested 
+
+I have tested this is working on the following Operating Systems:
+
+- Mojave 10.14.6 (Officially supported with Metal supported cards)
+- Catalina 10.15.3 
+- Windows 10 with Bootcamp 6.1.0
+
+**Note:** I do not recommend or support installing unsupported macOS on your Mac Pro.
+
+### Known Issues
+
+Issues that I have notices so far:
+
+- This can display content on only one Apple Thunderbolt Display if multiple displays are daisy chained.
+- Display audio does not work.
+- Asus Thunderbolt EX3 Card not detected in System Report.
+
+## Useful Links
+
+- https://www.youtube.com/watch?v=exiEjJhu14s&list=PLxp0TMbVUXVdJB6w814mdMIXP2C-k_3Tx&index=5&t=8s

@@ -49,9 +49,11 @@ After the Apple Thunderbolt Displays are connected to the system they work in Da
 
 ### OS tested 
 
-I have tested this is working on the following macOS:
+I have tested this is working on the following Operating Systems:
+
 - Mojave 10.14.6 (Officially supported with Metal supported cards)
 - Catalina 10.15.3 
+-  Windows 10 with Bootcamp 6.1.0
 
 **Note:** I do not recommend or support installing unsupported macOS on your Mac Pro.
 

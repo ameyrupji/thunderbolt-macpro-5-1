@@ -63,10 +63,9 @@ System Report Audio section will show MOTU 828mk2 as a valid audio source.
 
 ### OS tested 
 
-This is working on the following macOS versions:
+Tested this is working on the following Operating Systems:
 
-- High Sierra 10.13.6
-- Mojave 10.14.6
+- Mojave 10.14.6 (Officially supported with Metal supported cards)
 
 **Note:** I do not recommend or support installing unsupported macOS on your Mac Pro.
 
