@@ -25,8 +25,8 @@ To Install the custom firmware follow this [link](./GC-TitanRidge.md).
 
 - Some overall improvements 
 
-[Download](https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28291766)
-
+| [Download ↓](https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28291766) |
+|-----|
 
 **Issues Noticed:**
 
@@ -43,8 +43,8 @@ To Install the custom firmware follow this [link](./GC-TitanRidge.md).
 - OpenCore EFI attached for the MacPro5,1 with an SSDT (created by my Friend @apfelnico) for Slot 4.
 - Install the Thunderbolt Card in Slot 4 and have Thunderbolt with hotplug from cold boot on.
 
-[Download](https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28246620)
-
+| [Download ↓](https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28246620) |
+|-----|
 
 **Issues Noticed:**
 
