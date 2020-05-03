@@ -152,7 +152,7 @@ Inner view:
 
 ### Find and mount EFI disk 
 
-> **Note:** Do this step below if you want to OpenCore your Mac. Again _I have not OpenCored my MacPro_.
+> **Note:** Do this steps listed below if you want to OpenCore your Mac.
 
 ```
 diskutil list
@@ -165,29 +165,53 @@ sudo mount -t msdos /dev/disk0s1 /Volumes/efi
 
 ### Copy Contents of MacPro5.1 OpenCore.zip file into the mounted EFI drive 
 
-> **Note:** Do this step below if you want to OpenCore your Mac. Again _I have not OpenCored my MacPro_.
-
-
 I already had a EFI folder within the drive. I got an alert asking to  merge or update the contents. I chose Merge. The Final folder looked like this:
 
 ![finder-copy-to-efi](./images/finder-copy-to-efi.png) 
 
 
-### Reboot one or twice into Recovery Mode
+### Bless EFI drive to enable OpenCore
 
-To boot into recovery mode hold down the command + R key after turning on the Mac Pro. Thunderbolt should be working after a normal boot now!!!
+> **Note:** I used my original graphic card while I was trying to boot into the recovery drive.
+
+To boot into recovery mode hold down the `Command (⌘) + R` key after turning on the Mac Pro.
+
+![image-keyboard-recovery](./images/image-keyboard-recovery.png)
+
+Follow the [instructions](https://forums.macrumors.com/threads/opencore-on-the-mac-pro.2207814/) on the official OpenCore documentation to OpenCore your Mac. This includes the following:
+
+Open the terminal and run the following commands to make your EFI drive bootable (bless)
+
+- Figure out the EFI disk using the `diskutil list`
+- Mounting the EFI drive using the command `diskutil mount /dev/{efi_disk}`
+- Set the mounted EFI partition for booting `bless --mount /Volumes/EFI --setBoot`
+- Shut down the Mac and do an SMC reset (unplug the power cord, wait 15 seconds, plug the power cord back in, wait 5 seconds, and then press the power button)
+
+
+### Boot to see the OpenCore boot screen
+
+You should see the OpenCore boot screen on your next boot.
+
+![image-OpenCore-Boot-Screen](./images/image-OpenCore-Boot-Screen.png)
+
+
+### View System Report of your MacPro
 
 ![system-report-thunderbolt](./images/system-report-thunderbolt.png)
 
 After the Apple Thunderbolt Displays are connected to the system they work in Daisy Chaining and the following is shown in the System report. I have also tried to Hot Swap the displays successfully.
 
+
 ![system-report-thunderbolt-working](./images/system-report-thunderbolt-working.png)
+
+
+The cars is also detected successfully in the PIC as a thunderbolt and USB 3.1 device.
+
+![system-report-pci-slot-4-thunderbolt-detected](./images/system-report-pci-slot-4-thunderbolt-detected.png)
 
 
 ### TODOs:
 
-I will try the following things in the future:
-- Get OpenCore to work on my system - [Link](https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28261032)
 - USB 2.0 Support - [Link](https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28294229)
 
 ### Thunderbolt device tested
@@ -210,7 +234,7 @@ I have tested this is working on the following Operating Systems:
 Issues that I have notices so far:
 
 - ~~Hot swap devices works till at-least one device is connected to the GC-TITAN RIDGE card. I have only tried this with my thunderbolt displays if I connect one display to the card and leave it connected to the the card I can disconnect the second from the card or daisy chain and works after reconnecting. But if I remove both and try to reconnect then none of them work.~~ Solved by Connect pin 3 and pin 5 of jumper refer this section above.
-- ~~I am using A pair of Apple Thunderbolt Display and have notices that the brightness functionality and USB ports behind the Thunderbolt display do not work.~~ Restart your system after a cold boot to enable USB and FaceTime HD Cameras on the Apple Thunderbold displays. 
+- ~~I am using A pair of Apple Thunderbolt Display and have notices that the brightness functionality and USB ports behind the Thunderbolt display do not work.~~ Restart your system after a cold boot to enable USB and FaceTime HD Cameras on the Apple Thunderbolt displays. 
 
 ## Useful Links
 
