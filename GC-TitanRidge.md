@@ -205,7 +205,7 @@ After the Apple Thunderbolt Displays are connected to the system they work in Da
 ![system-report-thunderbolt-working](./images/system-report-thunderbolt-working.png)
 
 
-The cars is also detected successfully in the PIC as a thunderbolt and USB 3.1 device.
+The card is also detected successfully as a PIC Hardware as a thunderbolt and USB 3.1 device.
 
 ![system-report-pci-slot-4-thunderbolt-detected](./images/system-report-pci-slot-4-thunderbolt-detected.png)
 
