@@ -156,8 +156,7 @@ Inner view:
 
 ```
 diskutil list
-sudo mkdir /Volumes/efi
-sudo mount -t msdos /dev/disk0s1 /Volumes/efi
+sudo diskutil mount /dev/disk0s1
 ```
 
 ![terminal-mount-efi](./images/terminal-mount-efi.png)
