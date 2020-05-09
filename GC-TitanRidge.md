@@ -138,6 +138,10 @@ When connected the jumper from pin 3 to pin 5 should look like this.
 
 Connect this other end of the THB_C Header to the card into the J1 Header port of the card.
 
+Alternate approaches suggested by community:
+
+![image-jumper-pin3-pin5-alternate-1](./images/image-jumper-pin3-pin5-alternate-1.jpg)
+![image-jumper-pin3-pin5-alternate-2](./images/image-jumper-pin3-pin5-alternate-2.png)
 ### Connect the card into the system
 
 I connected this card in Slot 4 of my PCIE on Mac Pro. 
