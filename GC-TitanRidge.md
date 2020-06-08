@@ -264,3 +264,4 @@ Issues that I have notices so far:
 **Videos**
 
  - ULTIMATE Mac Pro Thunderbolt upgrade! (By [PRESS RESET](https://www.youtube.com/channel/UCYfOQDGx24ZWrE-EUv_jSdw)) [YouTube](https://youtu.be/V9PtIa81FnI)
+ - Thunderbolt 3 on Classic Mac Pro flashing GC-Titanridge full tutorial (By [OFXCPRODUCTIONS](https://www.youtube.com/channel/UCKf9SgUZVbqmd1fQDpI4njw)) [YouTube](https://youtu.be/R6jrc3TxQDc)
