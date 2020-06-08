@@ -249,4 +249,18 @@ Issues that I have notices so far:
 - https://forums.macrumors.com/threads/opencore-on-the-mac-pro.2207814/
 - https://ss64.com/osx/bless.html
 - https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28261032
-- https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28293660 [My documentation link shared on forums.macrumors.com]
+
+
+## References to this Doumentation
+
+**Writeups**
+
+- https://www.pro-tools-expert.com/production-expert-1/2020/2/28/thunderbolt-3-on-mac-pro-51-cheese-grater-one-step-closer
+- https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28293660
+- https://forums.macrumors.com/threads/can-someone-please-make-a-titan-ridge-how-to-guide.2226638/post-28293877
+- https://www.tonymacx86.com/threads/success-gigabyte-designare-z390-thunderbolt-3-i7-9700k-amd-rx-580.267551/page-2175
+- https://www.tonymacx86.com/threads/asus-x299-catalina-support.279556/post-2126072
+
+**Videos**
+
+ 
