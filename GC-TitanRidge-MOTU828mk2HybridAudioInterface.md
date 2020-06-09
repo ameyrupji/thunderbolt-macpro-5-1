@@ -19,8 +19,8 @@ This is the story to get MOTU 828mk2 Hybrid Audio Interface working with Mac Pro
 
 - Mac Pro with Thunderbolt Support using Gigabyte GC-Titan Ridge Card [link](../GC-TitanRidge.md)
 - MOTU 828mk2 Hybrid Audio Interface
-- Apple Thunderbolt 3 to Thunderbolt 2 Adapter [link](https://www.amazon.com/dp/B01MQ26QIY/ref=cm_sw_em_r_mt_dp_U_SfPBEbC8Q79Y5) ~$50
-- Apple Thunderbolt to FireWire Adapter [link](https://www.amazon.com/Apple-Thunderbolt-to-FireWire-Adapter/dp/B00SQ2CJUS) ~$30
+- Apple Thunderbolt 3 to Thunderbolt 2 Adapter [link](https://amzn.to/2Ym2zkf) ~$50
+- Apple Thunderbolt to FireWire Adapter [link](https://amzn.to/2Aj8T3V) ~$30
 
 ## My Upgrade Journey
 
