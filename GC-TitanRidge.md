@@ -21,8 +21,8 @@ My mac pro has the following configurations:
 
 ## Prerequisites
 
-- Obviously a Mac Pro and a Gigabyte GC-Titan Ridge Card [Amazon](https://www.amazon.com/gp/product/B07GBZL93X/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
-- EEPROM Flash Bios USB Programmer [Amazon](https://www.amazon.com/gp/product/B07SHSL9X9/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+- Obviously a Mac Pro and a Gigabyte GC-Titan Ridge Card [Amazon](https://amzn.to/2Aadohl)
+- EEPROM Flash Bios USB Programmer [Amazon](https://amzn.to/37kgwTJ)
 - Custom firmware for the Gigabyte GC-Titan Ridge Card v2.0 [Download](https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28291766). Links to old fimware can be found [here](./GC-TitanRidge-CustomFirmware.md)).
 
 
