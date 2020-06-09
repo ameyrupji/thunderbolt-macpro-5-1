@@ -26,7 +26,7 @@ My mac pro has the following configurations:
 
 - Mac Pro with Thunderbolt Support using Gigabyte GC-Titan Ridge Card [link](../GC-TitanRidge.md)
 - Apple Thunderbolt Display(s)
-- Apple Thunderbolt 3 to Thunderbolt 2 adapter [link](https://www.amazon.com/dp/B01MQ26QIY/ref=cm_sw_em_r_mt_dp_U_SfPBEbC8Q79Y5) ~$50
+- Apple Thunderbolt 3 to Thunderbolt 2 adapter [link](https://amzn.to/3h8V9cx) ~$50
 
 
 ## My Upgrade Journey
