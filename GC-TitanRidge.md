@@ -260,6 +260,7 @@ Issues that I have notices so far:
 - https://forums.macrumors.com/threads/can-someone-please-make-a-titan-ridge-how-to-guide.2226638/post-28293877
 - https://www.tonymacx86.com/threads/success-gigabyte-designare-z390-thunderbolt-3-i7-9700k-amd-rx-580.267551/page-2175
 - https://www.tonymacx86.com/threads/asus-x299-catalina-support.279556/post-2126072
+- https://uadforum.com/apollo-arrow-interfaces/44353-mac-pro-5-1-2012-universal-audio-apollo-twin-thunderbolt-2-a.html#post340850
 
 **Videos**
 
