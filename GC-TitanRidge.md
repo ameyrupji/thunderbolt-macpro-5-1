@@ -1,5 +1,4 @@
-|  [Home](../README.md) ▸ Thunderbolt Mac Pro Early 2009 with Gigabyte GC-Titan Ridge Card |
-|-----|
+[Home](../README.md) ▸ Thunderbolt Mac Pro Early 2009 with Gigabyte GC-Titan Ridge Card
 
 
 # [Thunderbolt Mac Pro Early 2009 with Gigabyte GC-Titan Ridge Card](https://ameyrupji.github.io/thunderbolt-macpro-5-1/GC-TitanRidge.html)
