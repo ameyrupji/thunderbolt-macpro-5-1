@@ -2,7 +2,7 @@
 |-----|
 
 
-# Thunderbolt Mac Pro Early 2009 with Gigabyte GC-Titan Ridge Card
+# [Thunderbolt Mac Pro Early 2009 with Gigabyte GC-Titan Ridge Card](https://ameyrupji.github.io/thunderbolt-macpro-5-1/GC-TitanRidge.html)
 
 This is my story to add Thunderbolt support to my Mac Pro Early 2009 (5,1) with a Gigabyte GC-Titan Ridge Card. Before we begin a quick disclaimer below.
 
