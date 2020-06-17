@@ -204,23 +204,29 @@ You should see the OpenCore boot screen on your next boot.
 
 After the Apple Thunderbolt Displays are connected to the system they work in Daisy Chaining and the following is shown in the System report. I have also tried to Hot Swap the displays successfully.
 
-
 ![system-report-thunderbolt-working](./images/system-report-thunderbolt-working.png)
-
 
 The card is also detected successfully as a PIC Hardware as a thunderbolt and USB 3.1 device.
 
 ![system-report-pci-slot-4-thunderbolt-detected](./images/system-report-pci-slot-4-thunderbolt-detected.png)
 
 
-### TODOs:
+### USB 3.1 [WIP]
 
-- USB 2.0 Support - [Link](https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28294229)
+The USB 3.1 / USB-C port on the card workd successfuly to connect to and transfer data to.
 
-### Thunderbolt device tested
+**Image coming soon**
+
+
+### Thunderbolt devices tested
 
 - Apple Thunderbolt Display [link](./GC-TitanRidge-AppleThunderboldDisplay.md)
 - MOTU 828mk2 Hybrid Audio Interface [link](./GC-TitanRidge-MOTU828mk2HybridAudioInterface.md)
+
+### USB devices tested
+
+- External SSD (mSata) [Link](https://amzn.to/37BVy2Z) connected via USB-C cable [Link](https://amzn.to/37AzSEr) **full writeup coming soon with seed test**
+
 
 ### OS tested 
 
@@ -261,6 +267,7 @@ Issues that I have notices so far:
 - https://www.tonymacx86.com/threads/success-gigabyte-designare-z390-thunderbolt-3-i7-9700k-amd-rx-580.267551/page-2175
 - https://www.tonymacx86.com/threads/asus-x299-catalina-support.279556/post-2126072
 - https://uadforum.com/apollo-arrow-interfaces/44353-mac-pro-5-1-2012-universal-audio-apollo-twin-thunderbolt-2-a.html#post340850
+- http://blog.greggant.com/posts/2018/05/07/definitive-mac-pro-upgrade-guide.html#thunderbolt
 
 **Videos**
 
