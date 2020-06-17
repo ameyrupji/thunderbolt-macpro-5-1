@@ -1,10 +1,11 @@
-| [Home](./README.md) ▸ [Thunderbolt Mac Pro Early 2009 with Gigabyte GC-Titan Ridge Card](./GC-TitanRidge.md) ▸ Mac Pro + MOTU 828mk2 Hybrid Audio Interface |
-|-----|
+![thunderbolt mac pro 5,1 cover](./images/thunderbolt-mac-pro-5-1.png)
+
+[Home](./README.md) ▸ [Thunderbolt Mac Pro Early 2009 with Gigabyte GC-Titan Ridge Card](./GC-TitanRidge.md) ▸ Mac Pro + MOTU 828mk2 Hybrid Audio Interface 
 
 
-# Mac Pro + MOTU 828mk2 Hybrid Audio Interface
+# [Mac Pro + MOTU 828mk2 Hybrid Audio Interface](https://ameyrupji.github.io/thunderbolt-macpro-5-1/GC-TitanRidge-MOTU828mk2HybridAudioInterface.html)
 
-**Contribute By:** [Mick Terry](ttps://www.facebook.com/mick.terry)
+**Contribute By:** [Mick Terry](https://www.facebook.com/mick.terry)
 
 This is the story to get MOTU 828mk2 Hybrid Audio Interface working with Mac Pro  assuming that Thunderbolt support is already added using Gigabyte GC-Titan Ridge Card. A full detailed guide to add Thunderbolt support using a Gigabyte GC-Titan Ridge Card to a Mac Pro 5,1 is [here](../GC-TitanRidge.md). Before we begin a quick disclaimer below.
 

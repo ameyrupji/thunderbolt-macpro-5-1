@@ -1,8 +1,8 @@
-|  [Home](../README.md) ▸ Thunderbolt Mac Pro Early 2009 with Asus Thunderbolt EX3 |
-|-----|
+![thunderbolt mac pro 5,1 cover](./images/thunderbolt-mac-pro-5-1.png)
 
+[Home](./README.md) ▸ Thunderbolt Mac Pro Early 2009 with Asus Thunderbolt EX3
 
-# Thunderbolt Mac Pro Early 2009 with Asus Thunderbolt EX3
+# [Thunderbolt Mac Pro Early 2009 with Asus Thunderbolt EX3](https://ameyrupji.github.io/thunderbolt-macpro-5-1/ThunderboltEX3.html)
 
 This is my story to add Thunderbolt support (only Apple Thunderbold Display tested) to my Mac Pro Early 2009 (5,1) with a Gigabyte GC-Titan Ridge Card. Before we begin a quick disclaimer below.
 

@@ -1,8 +1,9 @@
-| [Home](./README.md) ▸ [Thunderbolt Mac Pro Early 2009 with Gigabyte GC-Titan Ridge Card](./GC-TitanRidge.md) ▸ Mac Pro Early 2009 + Apple Thunderbolt Display |
-|-----|
+![thunderbolt mac pro 5,1 cover](./images/thunderbolt-mac-pro-5-1.png)
+
+[Home](./README.md) ▸ [Thunderbolt Mac Pro Early 2009 with Gigabyte GC-Titan Ridge Card](./GC-TitanRidge.md) ▸ Mac Pro Early 2009 + Apple Thunderbolt Display
 
 
-# Mac Pro Early 2009 + Apple Thunderbolt Display
+# [Mac Pro Early 2009 + Apple Thunderbolt Display](https://ameyrupji.github.io/thunderbolt-macpro-5-1/GC-TitanRidge-AppleThunderboldDisplay.html)
 
 This is my story to get Apple Thunderbolt Displays working with my Mac Pro Early 2009 (5,1) assuming that Thunderbolt support is already added using Gigabyte GC-Titan Ridge Card. A full detailed guide to add Thunderbolt support using a Gigabyte GC-Titan Ridge Card to a Mac Pro 5,1 is [here](../GC-TitanRidge.md). Before we begin a quick disclaimer below.
 

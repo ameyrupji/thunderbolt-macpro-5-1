@@ -1,8 +1,8 @@
-| [Home](./README.md) ▸ [Thunderbolt Mac Pro Early 2009 with Gigabyte GC-Titan Ridge Card](./GC-TitanRidge.md) ▸ Custom Firmware's Releases |
-|-----|
+![thunderbolt mac pro 5,1 cover](./images/thunderbolt-mac-pro-5-1.png)
 
+[Home](./README.md) ▸ [Thunderbolt Mac Pro Early 2009 with Gigabyte GC-Titan Ridge Card](./GC-TitanRidge.md) ▸ Custom Firmware's Releases 
 
-# Custom Firmware's Releases
+# [Custom Firmware's Releases](https://ameyrupji.github.io/thunderbolt-macpro-5-1/GC-TitanRidge-CustomFirmware.html)
 
 Here is a list of custom the Custom Firmware's and some details of their release. The newest firmware is listed on the top. Before we begin a quick disclaimer below.
 
