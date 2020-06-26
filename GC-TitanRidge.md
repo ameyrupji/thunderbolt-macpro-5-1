@@ -269,6 +269,7 @@ Issues that I have notices so far:
 - https://www.tonymacx86.com/threads/asus-x299-catalina-support.279556/post-2126072
 - https://uadforum.com/apollo-arrow-interfaces/44353-mac-pro-5-1-2012-universal-audio-apollo-twin-thunderbolt-2-a.html#post340850
 - http://blog.greggant.com/posts/2018/05/07/definitive-mac-pro-upgrade-guide.html#thunderbolt
+- https://forum.amd-osx.com/index.php?threads/ssdt-for-flashed-gc-titan-ridge.151/post-1934
 
 **Videos**
 
