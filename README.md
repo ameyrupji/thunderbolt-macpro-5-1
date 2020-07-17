@@ -15,6 +15,8 @@ My mac pro has the following configurations:
 - Memory:           96 GB 1066 Mhz DDR3 ECC
 - Graphics          AMD Radeon RX 580 8 GB
 
+My purchase and upgrade stroy can be found [here](https://ameyrupji.github.io/macpro-5-1/). [Github View](https://github.com/ameyrupji/macpro-5-1)
+
 ## My Thunderbolting Story 
 
 I was in the market looking around for a PCIE based solution for running my Apple Thunderbolt Displays off of. I found the following options which look compelling looking at the reviews:
