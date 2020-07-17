@@ -20,6 +20,8 @@ My mac pro has the following configurations:
 - Memory:           96 GB 1066 Mhz DDR3 ECC
 - Graphics          AMD Radeon RX 580 8 GB
 
+My purchase and upgrade story can be found [here](https://ameyrupji.github.io/macpro-5-1/) ([Github View](https://github.com/ameyrupji/macpro-5-1)).
+
 ## Prerequisites
 
 - Obviously a Mac Pro and a Gigabyte GC-Titan Ridge Card [Amazon](https://amzn.to/2Aadohl)
