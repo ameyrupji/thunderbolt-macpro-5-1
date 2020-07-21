@@ -62,7 +62,11 @@ I have tested this is working on the following Operating Systems:
 
 Issues that I have notices so far:
 
-- ~~I am using A pair of Apple Thunderbolt Display and have notices that the brightness functionality and USB ports behind the Thunderbolt display do not work.~~ Restart your system after a cold boot to enable USB and FaceTime HD Cameras on the Apple Thunderbold displays. 
+- ~~I am using A pair of Apple Thunderbolt Display and have notices that the brightness functionality and USB ports behind the Thunderbolt display do not work.~~ Restart your system after a cold boot to enable USB and FaceTime HD Cameras on the Apple Thunderbolt displays. 
+- The Thunderbolt displays not displaying OpenCore boot screen. Notices that boot screen is displayed on HDMI port of the graphics card (RX 580 in my case) after latest MacOS software update. The quick fix that I came up with is to have a small display on my desk that I use to boot into the required drive and then hotplug in the Thunderbolt displays. The power to this display is provided by the USB on the MacPro. 
+
+![image-small-hdmi-display](./images/image-small-hdmi-display.png)
+Link for the purchase: [Amazon](https://amzn.to/30wX5UL)
 
 ## Useful Links
 
