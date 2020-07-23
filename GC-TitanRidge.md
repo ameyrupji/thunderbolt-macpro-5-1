@@ -214,11 +214,18 @@ The card is also detected successfully as a PIC Hardware as a thunderbolt and US
 ![system-report-pci-slot-4-thunderbolt-detected](./images/system-report-pci-slot-4-thunderbolt-detected.png)
 
 
-### USB 3.1 [WIP]
+### USB 3.1
 
-The USB 3.1 / USB-C port on the card workd successfuly to connect to and transfer data to.
+The USB 3.1 / USB-C port on the card worked successfully to connect to and transfer data to. The screenshot of the System Report with USB 3.1 and Disk Utility showing the attached Drive is as shown below:
 
-**Image coming soon**
+![disk-utlity-240gb-ssd](./images/disk-utlity-240gb-ssd.png)
+![system-report-usb-31](./images/system-report-usb-31.png)
+
+BlackMagic Speed Test with a mSata SSD. This test was done while on of the USB-C port was connected to 2 Apple Thunderbolt displays.
+
+![blackmagic-speedtest-msata-ssd](./images/blackmagic-speedtest-msata-ssd.png)
+
+
 
 
 ### Thunderbolt devices tested
