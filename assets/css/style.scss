@@ -8,8 +8,19 @@ body {
 }
 
 .page-header {
-    background-color: transparent;
-    background-image: linear-gradient(141deg,rgba(189,141,75,.9),rgba(53,92,125,.9));
+    padding: 0;
+    margin: 0;
+    
+    background-image: url('https://ameyrupji.github.io/thunderbolt-macpro-5-1/assets/images/background.jpg');
+    height: 100%;
+    width: 100%;
+    background-position: 50% 0;
+
+    .gradient {
+        padding: 5rem 6rem;
+        background-color: transparent;
+        background-image: linear-gradient(141deg,rgba(189,141,75,.9),rgba(53,92,125,.9));
+    }
 }
 
 
