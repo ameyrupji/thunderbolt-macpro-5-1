@@ -221,12 +221,6 @@ The USB 3.1 / USB-C port on the card worked successfully to connect to and trans
 ![disk-utlity-240gb-ssd](./images/disk-utlity-240gb-ssd.png)
 ![system-report-usb-31](./images/system-report-usb-31.png)
 
-BlackMagic Speed Test with a mSata SSD. This test was done while on of the USB-C port was connected to 2 Apple Thunderbolt displays.
-
-![blackmagic-speedtest-msata-ssd](./images/blackmagic-speedtest-msata-ssd.png)
-
-
-
 
 ### Thunderbolt devices tested
 
@@ -235,7 +229,12 @@ BlackMagic Speed Test with a mSata SSD. This test was done while on of the USB-C
 
 ### USB devices tested
 
-- External SSD (mSata) [Link](https://amzn.to/37BVy2Z) connected via USB-C cable [Link](https://amzn.to/37AzSEr) **full writeup coming soon with seed test**
+- External SSD (mSata) [Link](https://amzn.to/37BVy2Z) connected via USB-C cable [Link](https://amzn.to/37AzSEr) 
+
+BlackMagic Speed Test with a mSata SSD. This test was done while on of the USB-C port was connected to 2 Apple Thunderbolt displays.
+
+![blackmagic-speedtest-msata-ssd](./images/blackmagic-speedtest-msata-ssd.png)
+
 
 
 ### OS tested 
