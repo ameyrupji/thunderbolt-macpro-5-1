@@ -1,0 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
+.page-header {
+    background-color: transparent;
+    background-image: linear-gradient(141deg,rgba(189,141,75,.9),rgba(53,92,125,.9));
+}
+
+
+.main-content {
+    h1, 
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        text-transform: uppercase;
+        font-weight: 100;
+        color: #000;
+    }
+}
+
+a {
+  color: #355c7d;
+}
