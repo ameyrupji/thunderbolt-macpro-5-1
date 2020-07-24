@@ -51,6 +51,17 @@ After the Apple Thunderbolt Displays are connected to the system they work in Da
 
 ![system-report-thunderbolt-working](./images/system-report-thunderbolt-working.png)
 
+
+### Disk Speed Test through displays
+
+Disk speed test results connected to First Display's USB
+
+![blackmagic-first-display-usb](./images/blackmagic-first-display-usb.png)
+
+Disk speed test results connected to Daisy Chained Display's USB
+
+![blackmagic-daisy-chained-display-usb](./images/blackmagic-daisy-chained-display-usb.png)
+
 ### OS tested 
 
 I have tested this is working on the following Operating Systems:
