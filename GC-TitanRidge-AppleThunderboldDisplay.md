@@ -67,7 +67,7 @@ Issues that I have notices so far:
 
 - ~~I am using A pair of Apple Thunderbolt Display and have notices that the brightness functionality, USB ports behind the Thunderbolt Display and the internal display speakers  do not work.~~ Restart your system after a cold boot to enable USB, FaceTime HD Cameras and internal speakers on the Apple Thunderbolt displays. 
 
-- The Thunderbolt displays not displaying OpenCore boot screen. Notices that boot screen is displayed on HDMI port of the graphics card (RX 580 in my case) after latest MacOS software update. The quick fix that I came up with is to have a small display on my desk that I use to boot into the required drive and then hotplug in the Thunderbolt displays. The power to this display is provided by the USB on the MacPro. Other folks reporting the same issue and the same solution [MacRumors Link](https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/page-50?post=28689235#post-28689235)
+- The Thunderbolt displays not displaying OpenCore boot screen. Notices that boot screen is displayed on HDMI port of the graphics card (RX 580 in my case) after latest MacOS software update. The quick fix that I came up with is to have a small display on my desk that I use to boot into the required drive and then hots swap in the Thunderbolt displays. The power to this display is provided by the USB on the MacPro. Other folks reporting the same issue and the same solution [MacRumors Link](https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/page-50?post=28689235#post-28689235)
 
 ![image-small-hdmi-display](./images/image-small-hdmi-display.png)
 Link for the purchase: [Amazon](https://amzn.to/30wX5UL)
