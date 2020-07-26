@@ -19,7 +19,7 @@ To Install the custom firmware follow this [link](./GC-TitanRidge.md).
 
 **Released By:** DSM2.Hackintosh
 
-**Suggesed OpenCore by Community:** v0.57 with SSDT [Download Link](https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28370189) 
+**Suggested OpenCore by Community:** v0.57 with SSDT [Download Link](https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28370189) 
 
 **Release Notes:**
 
@@ -36,7 +36,7 @@ To Install the custom firmware follow this [link](./GC-TitanRidge.md).
 
 **Released By:** DSM2.Hackintosh
 
-**Suggesed OpenCore by Community:** v0.55 with SSDT [Download Link](hhttps://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28246620) 
+**Suggested OpenCore by Community:** v0.55 with SSDT [Download Link](hhttps://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28246620) 
 
 **Release Notes:**
 
