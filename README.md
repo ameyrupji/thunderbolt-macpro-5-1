@@ -23,11 +23,13 @@ I was in the market looking around for a PCIE based solution for running my Appl
 
 - ASUS Expansion Card for Z170 & X99 Motherboards ThunderboltEX 3 [Amazon](https://amzn.to/3h8Ubgp) ~$60.
 - Gigabyte GC-Titan Ridge (Titan Ridge Thunderbolt 3 PCIe Card Component) [Amazon](https://amzn.to/2Aadohl) ~$100.
+- Gigabyte GC-Alpine Ridge (Alpine Ridge Thunderbolt 3 PCIe Card Component) [Amazon](https://amzn.to/31m8LeJ) ~$60.
 
 Tried both these cards on my system and this are my thoughts:
 
 - ASUS ThunderboltEX 3: Click [here](./ThunderboltEX3.md) for my findings.
 - Gigabyte GC-Titan Ridge: Click [here](./GC-TitanRidge.md) for my findings.
+- Alpine GC-Titan Ridge: Click [here](./GC-AlpineRidge.md) for my findings.
 
 
 ## Support this work
