@@ -36,7 +36,7 @@ Use the [Video Tutorial](https://www.youtube.com/watch?v=nFO54LKzRAw) and the do
 
 ### View System Report of your MacPro
 
-The system report should successfully detect thr alpine ridge card.
+The system report should successfully detect the Alpine Ridge card along with HotSwap functionality on an OpenCored System.
 
 ![system-report-thunderbolt-alpine-ridge](./images/system-report-thunderbolt-alpine-ridge.png)
 
