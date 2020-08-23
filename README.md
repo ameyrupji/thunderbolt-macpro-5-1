@@ -29,7 +29,7 @@ Tried both these cards on my system and this are my thoughts:
 
 - ASUS ThunderboltEX 3: Click [here](./ThunderboltEX3.md) for my findings.
 - Gigabyte GC-Titan Ridge: Click [here](./GC-TitanRidge.md) for my findings.
-- Alpine GC-Titan Ridge: Click [here](./GC-AlpineRidge.md) for my findings.
+- Gigabyte GC-Alpine Ridge: Click [here](./GC-AlpineRidge.md) for my findings.
 
 
 ## Support this work
